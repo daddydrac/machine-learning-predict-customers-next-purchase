@@ -7,7 +7,6 @@
 * Build a pipeline that it can be reused for numerous prediction problems for customers of many different types of industries
 
 
-If building impactful data science pipelines is important to you or your business, please [get in touch](https://www.linkedin.com/in/computer-vision-engineer/).
 
 
 
