@@ -9,7 +9,5 @@
 
 If building impactful data science pipelines is important to you or your business, please [get in touch](https://www.linkedin.com/in/computer-vision-engineer/).
 
-### Contact
 
-Email: joehoeller@gmail.com
 
